@@ -38,7 +38,7 @@ Languages        -> Python, TypeScript/Node.js, Bash
 
 ## Things I've shipped (and am shipping)
 
-- TestHive — an AI-native assessment platform with multi-source test generation, adaptive delivery, and
+- Testhive — an AI-native assessment platform with multi-source test generation, adaptive delivery, and
   LLM-based evaluation
 - Cloud Storage Aggregator — natural language query interface over multi-cloud storage with dynamic rclone
   orchestration
