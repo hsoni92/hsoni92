@@ -18,7 +18,6 @@ that survive contact with real data.
 
 Right now I'm deep in:
 - Agentic AI systems — LangGraph, multi-agent orchestration, tool-use patterns, memory architectures
-- Semantic DOM intelligence — MarkupLM-based node classification, natural language UI interaction
 - GenAI developer tooling — actively tracking the 2025 landscape: mem0, Mastra and the broader
   agentic framework ecosystem
 
